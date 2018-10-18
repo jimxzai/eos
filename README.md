@@ -1,7 +1,5 @@
-# eos: A lightweight header-only 3D Morphable Face Model fitting library in modern C++11/14.
-# steps to build in Clion:
-cmake to generate makefile for Eclipse
-import project from makefile into Clion.
+## eos: A lightweight header-only 3D Morphable Face Model fitting library in modern C++11/14.
+
 build with success and able to change and debug!
 
 [![Latest release](http://img.shields.io/github/release/patrikhuber/eos.svg?style=flat-square)][release]
@@ -30,6 +28,9 @@ At the moment, it mainly provides the following functionality:
 * (_Experimental_): Non-linear fitting cost functions using Ceres for shape, camera, blendshapes and the colour model (needs Ceres to be installed separately)
 
 An experimental model viewer to visualise 3D Morphable Models and blendshapes is available [here](https://github.com/patrikhuber/eos-model-viewer).
+# steps to build in Clion:
+cmake to generate makefile for Eclipse
+import project from makefile into Clion.
 
 ## Usage
 
