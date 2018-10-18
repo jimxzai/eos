@@ -92,6 +92,7 @@ The library includes a low-resolution shape-only version of the Surrey Morphable
 <img src="https://raw.githubusercontent.com/patrikhuber/eos/gh-pages/images/sfm_shape_3448_mesh.png" width=20% alt="Face Model Picture"></img>
 
 The full model is available at [http://www.cvssp.org/facemodel](http://www.cvssp.org/facemodel).
+# another alternative tool to view this mesh model is to use meshlab  : https://github.com/cnr-isti-vclab/meshlab
 
 ## Python bindings
 
